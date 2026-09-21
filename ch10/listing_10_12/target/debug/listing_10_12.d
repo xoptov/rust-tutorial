@@ -1,1 +1,0 @@
-/home/xoptov/projects/school/rust/ch10/listing_10_12/target/debug/listing_10_12: /home/xoptov/projects/school/rust/ch10/listing_10_12/src/lib.rs /home/xoptov/projects/school/rust/ch10/listing_10_12/src/main.rs
